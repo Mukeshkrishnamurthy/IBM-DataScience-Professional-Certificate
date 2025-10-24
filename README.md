@@ -19,7 +19,7 @@
 | 09.     | [Machine Learning with Python](https://github.com/Mukeshkrishnamurthy/IBM-DataScience-Professional-Certificate/blob/7d5984e4a7b39e7f6c26d8457bc90ff5ee3833e6/Certificates/09-Machine%20Learning%20with%20Python.pdf)                                      |✅| 
 | 10.     | [Applied Data Science Capstone](https://github.com/Mukeshkrishnamurthy/IBM-DataScience-Professional-Certificate/blob/7d5984e4a7b39e7f6c26d8457bc90ff5ee3833e6/Certificates/10-Applied%20Data%20Science%20Capstone.pdf)       |✅|  
 | 11.     | [Generative AI Elevate Your Data Science Career](https://github.com/Mukeshkrishnamurthy/IBM-DataScience-Professional-Certificate/blob/7d5984e4a7b39e7f6c26d8457bc90ff5ee3833e6/Certificates/11-%20Generative%20AI%20Elevate%20Your%20Data%20Science%20Career.pdf)         								  |✅| 
-| 12.     | [12-Data Scientist Career Guide and Interview](https://github.com/Mukeshkrishnamurthy/IBM-DataScience-Professional-Certificate/blob/7d5984e4a7b39e7f6c26d8457bc90ff5ee3833e6/Certificates/12-Data%20Scientist%20Career%20Guide%20and%20Interview.pdf)         								  |✅| 
+| 12.     | [Data Scientist Career Guide and Interview](https://github.com/Mukeshkrishnamurthy/IBM-DataScience-Professional-Certificate/blob/7d5984e4a7b39e7f6c26d8457bc90ff5ee3833e6/Certificates/12-Data%20Scientist%20Career%20Guide%20and%20Interview.pdf)         								  |✅| 
 | 13.     | [Final Certificate](https://github.com/Mukeshkrishnamurthy/IBM-DataScience-Professional-Certificate/blob/7d5984e4a7b39e7f6c26d8457bc90ff5ee3833e6/Certificates/Final%20Certificate.pdf)         								  |✅| 
 
 
